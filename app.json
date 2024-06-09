@@ -25,37 +25,37 @@
     },
     "DURATION_LIMIT": {
       "description": "Duration Limit for Playout (In Mins).. Example: 900",
-      "value": "900",
+      "value": "2000",
       "required": true
     },
     "MONGO_DB_URI": {
       "description": "Mongo DB URL",
-      "value": "",
+      "value": "mongodb+srv://botmaker9675208:botmaker9675208@cluster0.sc9mq8b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "Asad_Music_Bot",
+      "value": "sanvi_management_bot",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "AsadSupport",
+      "value": "about_tosuu",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Support Group Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "Shayri_Music_Lovers",
+      "value": "alivealone76",
       "required": false
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "1342820594",
+      "value": "6848223695",
       "required": true
     },
     "STRING_SESSION1": {
       "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-      "value": "",
+      "value": "BQF3rQwAmxLr1Z8P4uOqRcOAPxy8fagW6nbUTVlLezeEZDVqN8CxJvIefm3O3VwE4atuIt1CG5Yr8jnU6JPhDu5atVp5adFcKQDl9MXf1CIval3hHpYyaebYEbxg7bTzhJAvma_s0hiI_yXAfKCJ3e6XeJd0pWmBlErTFSBJCOMVFs9pB6_jE1qqZ2xeSdJFQjx6sfJRWxfYodIlanduirmRj1g7i8kXuf-OzDgrXNKBEH_LiH_-QcyTwTeRMfqr0rvytkZp7U_hoHLLO84JMHNj7knOUNMkGwNphIIaUtjXWf5oicoOFe43HLWHvMjywfFvYccRaTCU48EQUFuWuX6WiuhAAAAAFVhP1nAA",
       "required": true
     },
     "STRING_SESSION2": {
@@ -80,37 +80,37 @@
     },
     "HEROKU_API_KEY": {
       "description": "Your Heroku account's API key",
-      "value": "",
+      "value": "HRKU-30769246-c7f5-49e8-8e56-6baab947b9e6",
       "required": false
     },
     "HEROKU_APP_NAME": {
       "description": "Your heroku app/bot's name",
-      "value": "",
+      "value": "shreyaa",
       "required": false
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-      "value": "-1001717283097",
+      "value": "-1002023182491",
       "required": true
     },
     "SUDO_USERS": {
       "description": "The user id(s) of user(s) whom you would like to add as a SUDO. Multiple values shall be seperated with a space.",
-      "value": "",
+      "value": "6848223695",
       "required": true
     },
     "LOG_SESSION": {
       "description": "A Pyrogram String Session for LOGGING or u can also add STRING_SESSION1 Also.",
-      "value": "",
+      "value": "BQF3rQwAmxLr1Z8P4uOqRcOAPxy8fagW6nbUTVlLezeEZDVqN8CxJvIefm3O3VwE4atuIt1CG5Yr8jnU6JPhDu5atVp5adFcKQDl9MXf1CIval3hHpYyaebYEbxg7bTzhJAvma_s0hiI_yXAfKCJ3e6XeJd0pWmBlErTFSBJCOMVFs9pB6_jE1qqZ2xeSdJFQjx6sfJRWxfYodIlanduirmRj1g7i8kXuf-OzDgrXNKBEH_LiH_-QcyTwTeRMfqr0rvytkZp7U_hoHLLO84JMHNj7knOUNMkGwNphIIaUtjXWf5oicoOFe43HLWHvMjywfFvYccRaTCU48EQUFuWuX6WiuhAAAAAFVhP1nAA",
       "required": true
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/jankarikiduniya/AlexaMusic",
+      "value": "https://github.com/tusarpatel/LB_Music",
       "required": true
     },
     "UPSTREAM_BRANCH": {
       "description": "Repo's Branch Name",
-      "value": "main",
+      "value": "master",
       "required": true
     }
   },
